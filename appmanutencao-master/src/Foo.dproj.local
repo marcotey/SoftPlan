@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/02/28 15:43:28.000.330,=C:\Users\Marcote\Desktop\projeto softplan\appmanutencao-master\src\Unit1.pas</Transaction>
+    <Transaction>2021/02/28 15:43:49.000.809,C:\Users\Marcote\Desktop\projeto softplan\appmanutencao-master\src\ExecptionManager.pas=C:\Users\Marcote\Desktop\projeto softplan\appmanutencao-master\src\Unit1.pas</Transaction>
+    <Transaction>2021/02/28 15:47:38.000.532,C:\Users\Marcote\Desktop\projeto softplan\appmanutencao-master\src\ExceptionMaganer.pas=C:\Users\Marcote\Desktop\projeto softplan\appmanutencao-master\src\ExecptionManager.pas</Transaction>
+    <Transaction>2021/02/28 15:56:04.000.305,=C:\Users\Marcote\Desktop\projeto softplan\appmanutencao-master\src\ExceptionMaganer.pas</Transaction>
+    <Transaction>2021/03/01 10:58:23.000.785,=C:\Users\Marcote\Desktop\projeto softplan\appmanutencao-master\src\Unit1.pas</Transaction>
+    <Transaction>2021/03/01 10:58:52.000.429,C:\Users\Marcote\Desktop\projeto softplan\appmanutencao-master\src\Unit1.pas=C:\Users\Marcote\Desktop\projeto softplan\appmanutencao-master\src\TArquivoStream.pas</Transaction>
+    <Transaction>2021/03/01 11:02:50.000.362,C:\Users\Marcote\Desktop\projeto softplan\appmanutencao-master\src\TArquivoStream.pas=C:\Users\Marcote\Desktop\projeto softplan\appmanutencao-master\src\ArquivoStream.pas</Transaction>
+    <Transaction>2021/03/02 11:49:51.128,=C:\Users\Marcote\Desktop\projeto softplan\appmanutencao-master\src\Vcl.RecError.pas</Transaction>
+    <Transaction>2021/03/02 11:50:18.305,=C:\Users\Marcote\Desktop\projeto softplan\appmanutencao-master\src\Unit1.pas</Transaction>
+    <Transaction>2021/03/02 22:39:36.565,=C:\Users\Marcote\Desktop\projeto softplan\appmanutencao-master\src\Unit1.pas</Transaction>
+    <Transaction>2021/03/02 22:39:45.486,C:\Users\Marcote\Desktop\projeto softplan\appmanutencao-master\src\Threads.dfm=C:\Users\Marcote\Desktop\projeto softplan\appmanutencao-master\src\Unit1.dfm</Transaction>
+    <Transaction>2021/03/02 22:39:45.486,C:\Users\Marcote\Desktop\projeto softplan\appmanutencao-master\src\Threads.pas=C:\Users\Marcote\Desktop\projeto softplan\appmanutencao-master\src\Unit1.pas</Transaction>
+    <Transaction>2021/03/03 02:03:22.836,C:\Users\Marcote\Desktop\projeto softplan\appmanutencao-master\src\ArquivoStream.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
